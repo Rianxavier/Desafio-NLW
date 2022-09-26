@@ -3,7 +3,7 @@
 
 Projeto construído através do desafio proposto no evento Next Level Week da Rocketseat
 
-![preview](./.github/preview.jpg)
+![preview](./.github/preview2.jpg)
 
 [Clique aqui para acessar](https://rianxavier.github.io/Desafio-NLW/)
 
